@@ -1,0 +1,4 @@
+# build output and caches (bash build.sh rebuilds them; release/ keeps the ROMs)
+out/
+__pycache__/
+*.pyc

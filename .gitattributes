@@ -1,0 +1,5 @@
+# The build runs in WSL: keep LF everywhere, whatever core.autocrlf says
+* text=auto eol=lf
+*.bat text eol=crlf
+*.png binary
+*.ROM binary
